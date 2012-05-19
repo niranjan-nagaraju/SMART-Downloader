@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?>
+<UpgradeLog>
+<Properties><Property Name="Solution" Value="LightFTPClient">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\manju\My Documents\SMART Downloader\FTP\LightFTPClient_src\LightFTPClient\LightFTPClient.sln">
+</Property><Property Name="Date" Value="Monday, May 15, 2006">
+</Property><Property Name="Time" Value="22:25 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LightFTPClient.sln" Description="File successfully backed up as C:\Documents and Settings\manju\My Documents\SMART Downloader\FTP\LightFTPClient_src\LightFTPClient\Backup\LightFTPClient.sln">
+</Event><Event ErrorLevel="0" Project="LightFTPClient" Source="LightFTPClient.csproj" Description="Project file successfully backed up as C:\Documents and Settings\manju\My Documents\SMART Downloader\FTP\LightFTPClient_src\LightFTPClient\Backup\LightFTPClient.csproj">
+</Event><Event ErrorLevel="0" Project="LightFTPClient" Source="LightFTPClient.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\manju\My Documents\SMART Downloader\FTP\LightFTPClient_src\LightFTPClient\Backup\LightFTPClient.csproj.user">
+</Event><Event ErrorLevel="0" Project="LightFTPClient" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\manju\My Documents\SMART Downloader\FTP\LightFTPClient_src\LightFTPClient\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LightFTPClient" Source="connectionlist.cs" Description="File successfully backed up as C:\Documents and Settings\manju\My Documents\SMART Downloader\FTP\LightFTPClient_src\LightFTPClient\Backup\connectionlist.cs">
+</Event><Event ErrorLevel="0" Project="LightFTPClient" Source="frmConnections.cs" Description="File successfully backed up as C:\Documents and Settings\manju\My Documents\SMART Downloader\FTP\LightFTPClient_src\LightFTPClient\Backup\frmConnections.cs">
+</Event><Event ErrorLevel="0" Project="LightFTPClient" Source="FrmMain.cs" Description="File successfully backed up as C:\Documents and Settings\manju\My Documents\SMART Downloader\FTP\LightFTPClient_src\LightFTPClient\Backup\FrmMain.cs">
+</Event><Event ErrorLevel="0" Project="LightFTPClient" Source="FrmRename.cs" Description="File successfully backed up as C:\Documents and Settings\manju\My Documents\SMART Downloader\FTP\LightFTPClient_src\LightFTPClient\Backup\FrmRename.cs">
+</Event><Event ErrorLevel="0" Project="LightFTPClient" Source="FtpClient.cs" Description="File successfully backed up as C:\Documents and Settings\manju\My Documents\SMART Downloader\FTP\LightFTPClient_src\LightFTPClient\Backup\FtpClient.cs">
+</Event><Event ErrorLevel="0" Project="LightFTPClient" Source="ListViewColumnSorter.cs" Description="File successfully backed up as C:\Documents and Settings\manju\My Documents\SMART Downloader\FTP\LightFTPClient_src\LightFTPClient\Backup\ListViewColumnSorter.cs">
+</Event><Event ErrorLevel="0" Project="LightFTPClient" Source="App.ico" Description="File successfully backed up as C:\Documents and Settings\manju\My Documents\SMART Downloader\FTP\LightFTPClient_src\LightFTPClient\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="LightFTPClient" Source="bin\Release\LightFTPClient.exe" Description="File successfully backed up as C:\Documents and Settings\manju\My Documents\SMART Downloader\FTP\LightFTPClient_src\LightFTPClient\Backup\bin\Release\LightFTPClient.exe">
+</Event><Event ErrorLevel="2" Project="LightFTPClient" Source="obj\Release\LightFTPClient.exe" Description="Failed to backup file as C:\Documents and Settings\manju\My Documents\SMART Downloader\FTP\LightFTPClient_src\LightFTPClient\Backup\obj\Release\LightFTPClient.exe">
+</Event><Event ErrorLevel="0" Project="LightFTPClient" Source="frmConnections.resx" Description="File successfully backed up as C:\Documents and Settings\manju\My Documents\SMART Downloader\FTP\LightFTPClient_src\LightFTPClient\Backup\frmConnections.resx">
+</Event><Event ErrorLevel="0" Project="LightFTPClient" Source="FrmMain.resx" Description="File successfully backed up as C:\Documents and Settings\manju\My Documents\SMART Downloader\FTP\LightFTPClient_src\LightFTPClient\Backup\FrmMain.resx">
+</Event><Event ErrorLevel="0" Project="LightFTPClient" Source="FrmRename.resx" Description="File successfully backed up as C:\Documents and Settings\manju\My Documents\SMART Downloader\FTP\LightFTPClient_src\LightFTPClient\Backup\FrmRename.resx">
+</Event><Event ErrorLevel="0" Project="LightFTPClient" Source="LightFTPClient.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LightFTPClient" Source="LightFTPClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LightFTPClient.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LightFTPClient.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LightFTPClient" Source="LightFTPClient.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

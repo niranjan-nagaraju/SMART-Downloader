@@ -1,0 +1,13 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element name="RootElement" type="RootElementType" />
+
+  <xsd:complexType name="RootElementType">
+    <xsd:sequence>
+      <xsd:element name="Child1" type="xsd:string" />
+      <xsd:choice>
+	<xsd:element name="Child2" type="xsd:string" />
+	<xsd:element name="Child3" type="xsd:string" />
+      </xsd:choice>
+    </xsd:sequence>
+   </xsd:complexType>
+</xsd:schema>
